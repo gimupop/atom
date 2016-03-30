@@ -1,0 +1,30 @@
+"*":
+  core:
+    disabledPackages: [
+      "vim-mode-plus"
+    ]
+    themes: [
+      "atom-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "7d6a1e2b-dafb-c226-0c92-8826e7c9b3d2"
+  jumpy: {}
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false
